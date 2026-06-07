@@ -1,0 +1,162 @@
+ html{
+    scroll-behavior: smooth;
+ }
+ a{
+    text-decoration: none;
+ }
+ 
+ #center {
+     color:#6F4E37;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color:#FAF3E0;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+ #div1 {
+     color:#6F4E37;
+     text-align: center;
+     font-size: 30px;
+     background-color:#FAF3E0;
+ }
+
+ #diffs {
+     color: black;
+     text-align: left;
+     font-size: 30px;
+     font-weight: bold;
+ }
+
+ #style {
+     color: black;
+     text-align: left;
+     font-size: 22px;
+ }
+
+ #styling {
+     text-align: right;
+     padding-left: 20px ;
+     background-color: white;
+     display: block;
+     width: 160px;
+     margin-bottom: 10px;
+     margin-left: 100%;
+     font-size: 44px;
+     background-color: white;
+     border-radius: 15px;
+     border:none;
+
+
+     .button1 {
+         background-color: #a67b5b;
+     }
+
+     .button2 {
+         background-color:#B08963;
+     }
+
+     .button3 {
+         background-color: #B08968;
+     }
+
+     .button4 {
+         background-color:#a67b5b ;
+     }
+
+     .button5 {
+         background-color:#B08963 ;
+     }
+ }
+
+ #nostyle {
+     font-weight: 700;
+     color: black;
+     font-size: 30px;
+ }
+
+ #nstyle {
+     font-size: 22px;
+ }
+
+ #s1 {
+     color: black;
+     font-size: 40px;
+     font-weight: 700;
+     font-family: "Archivo Black", sans-serif;
+ }
+
+ #s11 {
+     font-size: 22px;
+     font-family: "Archivo Black", sans-serif;
+ }
+
+ #s2 {
+     color: black;
+     font-size: 40px;
+     font-weight: 700;
+     font-family: "Playwrite GB J", cursive;
+ }
+
+ #s22 {
+     font-size: 22px;
+     font-family: "Playwrite GB J", cursive;
+ }
+
+ #s3 {
+     color: black;
+     font-size: 80px;
+     font-weight: 700;
+     font-family: "Ole", cursive;
+ }
+
+ #s33 {
+     font-size: 50px;
+     font-family: "Ole", cursive;
+ }
+
+ #s4 {
+     color: black;
+     font-size: 80px;
+     font-weight: 700;
+     font-family: "Six Caps", sans-serif;
+ }
+
+ #s44 {
+     font-size: 30px;
+     font-family: "Six Caps", sans-serif;
+ }
+ #rstyle{
+    
+     background-color:#6F4E37;
+     font-size: 30px;
+     border-radius: 10px;
+     margin-right: 40px;
+     width: 100%;
+     letter-spacing: 50px;
+     
+     .button1 {
+         background-color:bisque;
+     }
+
+     .button2 {
+         background-color:bisque;
+     }
+
+     .button3 {
+         background-color: bisque;
+     }
+
+     .button4 {
+         background-color:bisque;
+     }
+
+     .button5 {
+         background-color:bisque;
+     }
+ }
+
+
+ #intro {
+     background-color: #6F4E37;
+ }
